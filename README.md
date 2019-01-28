@@ -9,7 +9,7 @@ Being able to take an idea or a mockup and create it is an elementary skill for 
 
 ## Original Webpage:
 
-<img src="images/Dog Party.png" width="250">
+<img src="images/Dog Party.png" width="400">
 
 ## Project Screen Grab:
 
