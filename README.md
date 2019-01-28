@@ -13,10 +13,10 @@ Being able to take an idea or a mockup and create it is an elementary skill for 
 
 ## Project Screen Grab:
 
-<img src="images/Dog Party Comp 1:2.png width="50">
+<img src="images/Dog Party Comp 1:2.png" width="400">
 
-![alt="Dog Party Comp"] (images/Dog%20Party%20Comp%201:2.png)
+<!--![alt="Dog Party Comp"] (images/Dog%20Party%20Comp%201:2.png)-->
 
-<img src="images/Dog Party Comp 2:2.png width="50">
+<img src="images/Dog Party Comp 2:2.png" width="400">
 
-![alt="Dog Party Comp"] (images/Dog%20Party%20Comp%202:2.png)
+<!--![alt="Dog Party Comp"] (images/Dog%20Party%20Comp%202:2.png)-->
