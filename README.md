@@ -11,7 +11,7 @@ Being able to take an idea or a mockup and create it is an elementary skill for 
 
 <img src="images/Dog Party.png" width="50">
 
-![alt="Dog Party"](images/Dog%20Party.png)
+
 
 ## Project Screen Grab:
 
