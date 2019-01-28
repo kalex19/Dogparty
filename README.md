@@ -13,4 +13,5 @@ Being able to take an idea or a mockup and create it is an elementary skill for 
 
 ## Project Screen Grab:
 
-![alt="Dog Party Comp"] (images/
+![alt="Dog Party Comp"] (images/Dog%20Party%20Comp%201:2.png)
+![alt="Dog Party Comp"] (images/Dog%20Party%20Comp%202:2.png
